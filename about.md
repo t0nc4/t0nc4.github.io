@@ -1,30 +1,15 @@
 ---
 layout: page
-title: About
+title: Perkenalan
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hallo.. Saya tonca.. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+tonca adalah nickname yang sering saya gunakan sampai sekarang, dan mengapa web ini dengan menggunakan nama t0nc4 hanya karena username tonca sudah ada yang menggunakannya jadi saya pilih yang agak-agak nyerempet dengan nickname yang sering saya gunakan itu.
 
-There are currently two themes built on Poole:
+Disini tempat saya belajar menuangkan apa yang di pikiran saya menjadi tulisan sehingga dapat di fahami dah di baca orang. Keinginan ini sudah ada sejak lama tapi sampai sekarang pun saya masih sulit menuangkan sesuatu dalam bentuk tulisan, jadi jangan heran kalau terkadang saat membaca tulisan saya dan anda sulit untuk memahaminya.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Terimakasih sudah mampir.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
